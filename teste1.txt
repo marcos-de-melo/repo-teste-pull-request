@@ -1,3 +1,5 @@
 primeiro paragrafo
+
 segundo paragrafo alterado
+
 Fiz o terceiro paragrafo
